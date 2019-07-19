@@ -1,0 +1,57 @@
+/**
+* @file 自用reset样式表
+* @author Senke Sun
+* @date 2019-07-19
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    word-break: break-all;
+    font-family: "-apple-system", sans-serif;
+    -webkit-tap-highlight-color: transparent;
+}
+*:focus {
+    outline: none;
+}
+html,
+body {
+    -webkit-overflow-scrolling: touch;
+    min-height: 100vh;
+    padding-top: .1px;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+i,
+b,
+address {
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+}
+
+a {
+    color: inherit;
+
+    -webkit-touch-callout: none;
+}
+
+input,
+textarea,
+button {
+    -webkit-appearance: none;
+}

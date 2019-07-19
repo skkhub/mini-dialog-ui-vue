@@ -1,0 +1,18 @@
+{
+  "name": "mini-dialog-ui-vue",
+  "version": "1.0.2",
+  "description": "一个适用于vue的精简UI组件集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "ui",
+    "dialog",
+    "mini-dialog-ui-vue"
+  ],
+  "author": "Senke Sun",
+  "style": "src/index.css",
+  "license": "ISC"
+}
